@@ -6,8 +6,8 @@ A clean, modern, and responsive blog template built with **HTML**, **Tailwind CS
 
 ## 🚀 Live Demo
 
-> [🔗 View Live Site](https://your-github-username.github.io/modern-blog/)  
-_(Replace with your actual GitHub Pages URL)_
+> [🔗 View Live Site]([https://your-github-username.github.io/modern-blog/](https://yatrimodi.github.io/blog-app/))  
+
 
 ---
 
